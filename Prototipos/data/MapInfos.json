@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":false,"name":"Mini1","order":2,"parentId":0,"scrollX":361.77777777777777,"scrollY":316.8888888888889},
-{"id":2,"expanded":false,"name":"Mini2","order":3,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":2,"expanded":false,"name":"Mini2","order":3,"parentId":0,"scrollX":361.77777777777777,"scrollY":316.8888888888889},
 {"id":3,"expanded":false,"name":"1","order":1,"parentId":0,"scrollX":361.77777777777777,"scrollY":316.8888888888889},
 {"id":4,"expanded":false,"name":"Mini3","order":4,"parentId":0,"scrollX":361.77777777777777,"scrollY":316.8888888888889}
 ]
