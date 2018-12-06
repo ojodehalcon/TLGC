@@ -1,66 +1,31 @@
 [
 null,
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-{"id":1,"expanded":true,"name":"sala del portal","order":25,"parentId":27,"scrollX":818,"scrollY":979.5},
-{"id":2,"expanded":true,"name":"sala del portal","order":26,"parentId":1,"scrollX":818,"scrollY":979.5},
-null,
-{"id":4,"expanded":true,"name":"Laboratorio1","order":27,"parentId":0,"scrollX":818,"scrollY":979.5},
-{"id":5,"expanded":false,"name":"Aeropuerto Manhattan","order":1,"parentId":0,"scrollX":818,"scrollY":979.5},
-=======
 {"id":1,"expanded":true,"name":"sala del portal","order":25,"parentId":27,"scrollX":591.2727272727273,"scrollY":332.72727272727275},
 {"id":2,"expanded":true,"name":"sala del portal","order":26,"parentId":1,"scrollX":591.2727272727273,"scrollY":332.72727272727275},
 {"id":3,"expanded":true,"name":"Cuarto Hawking","order":29,"parentId":29,"scrollX":542,"scrollY":305},
 {"id":4,"expanded":true,"name":"Aeropuerto Manhattan","order":18,"parentId":19,"scrollX":582.5454545454546,"scrollY":430.90909090909093},
 {"id":5,"expanded":true,"name":"Aeropuerto Manhattan","order":1,"parentId":0,"scrollX":582.5454545454546,"scrollY":627.2727272727273},
->>>>>>> 4017678bf5faf5a9a0ce9e854f030f5265801996
 {"id":6,"expanded":true,"name":"Adentro del aeropuerto","order":2,"parentId":5,"scrollX":832,"scrollY":640},
-=======
-=======
->>>>>>> parent of 4017678... ver 2.1.2
-{"id":1,"expanded":true,"name":"sala del portal","order":25,"parentId":27,"scrollX":534,"scrollY":319},
-{"id":2,"expanded":true,"name":"sala del portal","order":26,"parentId":1,"scrollX":818,"scrollY":979.5},
-{"id":3,"expanded":true,"name":"Cuarto Hawking1","order":29,"parentId":29,"scrollX":542,"scrollY":305},
-{"id":4,"expanded":true,"name":"Laboratorio1","order":27,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":5,"expanded":true,"name":"Aeropuerto Manhattan","order":1,"parentId":0,"scrollX":534,"scrollY":655},
-{"id":6,"expanded":true,"name":"Adentro del aeropuerto","order":2,"parentId":5,"scrollX":534,"scrollY":327},
-<<<<<<< HEAD
->>>>>>> parent of 4017678... ver 2.1.2
-=======
->>>>>>> parent of 4017678... ver 2.1.2
 {"id":7,"expanded":true,"name":"Baños","order":3,"parentId":6,"scrollX":728,"scrollY":409.77777777777777},
-{"id":8,"expanded":true,"name":"Tuberia alcantarillas","order":6,"parentId":0,"scrollX":818,"scrollY":979.5},
+{"id":8,"expanded":true,"name":"Tuberia alcantarillas","order":6,"parentId":0,"scrollX":542,"scrollY":305},
 {"id":9,"expanded":true,"name":"Alcantarillas","order":7,"parentId":8,"scrollX":818,"scrollY":979.5},
-{"id":10,"expanded":true,"name":"Barrio chino","order":19,"parentId":19,"scrollX":818,"scrollY":979.5},
+{"id":10,"expanded":true,"name":"Barrio chino","order":17,"parentId":19,"scrollX":591.2727272727273,"scrollY":324},
 {"id":11,"expanded":false,"name":"baños mujeres","order":5,"parentId":6,"scrollX":542,"scrollY":305},
 {"id":12,"expanded":false,"name":"Baño 4","order":4,"parentId":7,"scrollX":542,"scrollY":305},
 {"id":13,"expanded":true,"name":"Alcantarillas Interior","order":8,"parentId":9,"scrollX":818,"scrollY":979.5},
-{"id":14,"expanded":true,"name":"Batalla","order":13,"parentId":9,"scrollX":542,"scrollY":305},
+{"id":14,"expanded":true,"name":"Batalla","order":13,"parentId":9,"scrollX":591.2727272727273,"scrollY":332.72727272727275},
 {"id":15,"expanded":true,"name":"Alcantarillas Interior","order":9,"parentId":13,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
 {"id":16,"expanded":true,"name":"Alcantarillas Interior","order":10,"parentId":15,"scrollX":818,"scrollY":979.5},
 {"id":17,"expanded":true,"name":"Alcantarillas Interior","order":11,"parentId":16,"scrollX":728,"scrollY":409.77777777777777},
 {"id":18,"expanded":false,"name":"Alcantarillas Interior","order":12,"parentId":17,"scrollX":818,"scrollY":979.5},
-{"id":19,"expanded":true,"name":"Barrio chino","order":15,"parentId":8,"scrollX":818,"scrollY":979.5},
-{"id":20,"expanded":false,"name":"Baños Barrio chino","order":14,"parentId":14,"scrollX":818,"scrollY":979.5},
-{"id":21,"expanded":false,"name":"tienda del chino","order":16,"parentId":19,"scrollX":818,"scrollY":979.5},
-{"id":22,"expanded":true,"name":"Planeta Tario","order":20,"parentId":0,"scrollX":1390,"scrollY":971.5},
-{"id":23,"expanded":false,"name":"Sala de mando","order":18,"parentId":34,"scrollX":728,"scrollY":409.77777777777777},
+{"id":19,"expanded":true,"name":"Barrio chino","order":15,"parentId":8,"scrollX":591.2727272727273,"scrollY":324},
+{"id":20,"expanded":false,"name":"Baños Barrio chino","order":14,"parentId":14,"scrollX":591.2727272727273,"scrollY":332.72727272727275},
+{"id":21,"expanded":false,"name":"tienda del chino","order":16,"parentId":19,"scrollX":832,"scrollY":640},
+{"id":22,"expanded":true,"name":"Planeta Tario","order":20,"parentId":0,"scrollX":1389.818181818182,"scrollY":324},
+{"id":23,"expanded":false,"name":"Sala de mando","order":19,"parentId":4,"scrollX":591.2727272727273,"scrollY":332.72727272727275},
 {"id":24,"expanded":true,"name":"Batalla K Tab Kimill","order":21,"parentId":22,"scrollX":818,"scrollY":979.5},
 {"id":25,"expanded":false,"name":"subida","order":22,"parentId":24,"scrollX":818,"scrollY":979.5},
 {"id":26,"expanded":false,"name":"bosque","order":23,"parentId":24,"scrollX":818,"scrollY":979.5},
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-{"id":27,"expanded":true,"name":"Planeta Tario","order":24,"parentId":24,"scrollX":1390,"scrollY":971.5},
-{"id":28,"expanded":true,"name":"Pasillo1","order":28,"parentId":4,"scrollX":818,"scrollY":979.5},
-{"id":29,"expanded":true,"name":"Cuarto Hawking1","order":30,"parentId":4,"scrollX":818,"scrollY":979.5},
-{"id":30,"expanded":false,"name":"Sala de control","order":32,"parentId":4,"scrollX":818,"scrollY":979.5},
-{"id":31,"expanded":false,"name":"Cuarto Hawking","order":31,"parentId":29,"scrollX":818,"scrollY":979.5},
-{"id":32,"expanded":false,"name":"Pasillo","order":29,"parentId":28,"scrollX":728,"scrollY":409.77777777777777},
-{"id":33,"expanded":true,"name":"Laboratorio","order":33,"parentId":4,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
-{"id":34,"expanded":false,"name":"Aeropuerto Manhattan","order":17,"parentId":19,"scrollX":818,"scrollY":979.5}
-=======
 {"id":27,"expanded":true,"name":"Planeta Tario","order":24,"parentId":24,"scrollX":1389.818181818182,"scrollY":972},
 {"id":28,"expanded":true,"name":"Pasillo1","order":30,"parentId":3,"scrollX":832,"scrollY":640},
 {"id":29,"expanded":true,"name":"Cuarto Hawking1","order":28,"parentId":31,"scrollX":591.2727272727273,"scrollY":332.72727272727275},
@@ -68,25 +33,4 @@ null,
 {"id":31,"expanded":true,"name":"Laboratorio","order":27,"parentId":0,"scrollX":534,"scrollY":319},
 null,
 {"id":33,"expanded":true,"name":"Laboratorio","order":31,"parentId":3,"scrollX":591.2727272727273,"scrollY":332.72727272727275}
->>>>>>> 4017678bf5faf5a9a0ce9e854f030f5265801996
-=======
-{"id":27,"expanded":true,"name":"Planeta Tario","order":24,"parentId":24,"scrollX":1390,"scrollY":971.5},
-{"id":28,"expanded":true,"name":"Pasillo1","order":30,"parentId":3,"scrollX":542,"scrollY":305},
-{"id":29,"expanded":true,"name":"Cuarto Hawking1","order":28,"parentId":4,"scrollX":542,"scrollY":305},
-{"id":30,"expanded":false,"name":"Cuarto de control","order":32,"parentId":4,"scrollX":542,"scrollY":305},
-null,
-null,
-{"id":33,"expanded":true,"name":"Laboratorio","order":31,"parentId":3,"scrollX":534,"scrollY":319},
-{"id":34,"expanded":false,"name":"Aeropuerto Manhattan","order":17,"parentId":19,"scrollX":818,"scrollY":979.5}
->>>>>>> parent of 4017678... ver 2.1.2
-=======
-{"id":27,"expanded":true,"name":"Planeta Tario","order":24,"parentId":24,"scrollX":1390,"scrollY":971.5},
-{"id":28,"expanded":true,"name":"Pasillo1","order":30,"parentId":3,"scrollX":542,"scrollY":305},
-{"id":29,"expanded":true,"name":"Cuarto Hawking1","order":28,"parentId":4,"scrollX":542,"scrollY":305},
-{"id":30,"expanded":false,"name":"Cuarto de control","order":32,"parentId":4,"scrollX":542,"scrollY":305},
-null,
-null,
-{"id":33,"expanded":true,"name":"Laboratorio","order":31,"parentId":3,"scrollX":534,"scrollY":319},
-{"id":34,"expanded":false,"name":"Aeropuerto Manhattan","order":17,"parentId":19,"scrollX":818,"scrollY":979.5}
->>>>>>> parent of 4017678... ver 2.1.2
 ]
