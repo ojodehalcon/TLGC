@@ -30,7 +30,7 @@ null,
 {"id":28,"expanded":true,"name":"Pasillo1","order":30,"parentId":3,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
 {"id":29,"expanded":true,"name":"Cuarto Hawking1","order":28,"parentId":33,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
 {"id":30,"expanded":true,"name":"Cuarto de control","order":31,"parentId":28,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
-{"id":31,"expanded":false,"name":"espacio","order":32,"parentId":30,"scrollX":832,"scrollY":640},
+{"id":31,"expanded":false,"name":"espacio","order":32,"parentId":30,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
 {"id":32,"expanded":true,"name":"Barrio chino","order":17,"parentId":21,"scrollX":534,"scrollY":327},
 {"id":33,"expanded":true,"name":"Laboratorio","order":27,"parentId":1,"scrollX":722.6666666666666,"scrollY":406.6666666666667}
 ]
