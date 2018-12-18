@@ -2,7 +2,7 @@
 null,
 {"id":1,"expanded":true,"name":"Adentro del aeropuerto2","order":24,"parentId":32,"scrollX":811,"scrollY":499},
 {"id":2,"expanded":false,"name":"baños mujeres","order":25,"parentId":1,"scrollX":819,"scrollY":461},
-{"id":3,"expanded":true,"name":"Cuarto Hawking","order":3,"parentId":29,"scrollX":819,"scrollY":461},
+{"id":3,"expanded":true,"name":"Cuarto Hawking","order":3,"parentId":29,"scrollX":1092,"scrollY":604},
 {"id":4,"expanded":false,"name":"Aeropuerto Manhattan2","order":26,"parentId":1,"scrollX":811,"scrollY":499},
 {"id":5,"expanded":true,"name":"Aeropuerto Manhattan","order":7,"parentId":0,"scrollX":811,"scrollY":499},
 {"id":6,"expanded":true,"name":"Adentro del aeropuerto","order":8,"parentId":5,"scrollX":811,"scrollY":461},
