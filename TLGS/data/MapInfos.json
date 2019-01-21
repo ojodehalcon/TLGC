@@ -9,7 +9,7 @@ null,
 {"id":7,"expanded":true,"name":"Baños","order":9,"parentId":6,"scrollX":819,"scrollY":461},
 {"id":8,"expanded":false,"name":"Minijuego3","order":32,"parentId":25,"scrollX":819,"scrollY":461},
 {"id":9,"expanded":true,"name":"Alcantarillas","order":11,"parentId":12,"scrollX":819,"scrollY":461},
-{"id":10,"expanded":true,"name":"Planeta Tario2","order":34,"parentId":22,"scrollX":915.4285714285713,"scrollY":649.7142857142857},
+{"id":10,"expanded":true,"name":"Planeta Tario2","order":34,"parentId":22,"scrollX":915,"scrollY":650},
 {"id":11,"expanded":false,"name":"baños mujeres","order":19,"parentId":6,"scrollX":929.1428571428571,"scrollY":522.8571428571428},
 {"id":12,"expanded":true,"name":"Baño 4","order":10,"parentId":7,"scrollX":819,"scrollY":461},
 {"id":13,"expanded":true,"name":"Alcantarillas Interior","order":12,"parentId":9,"scrollX":819,"scrollY":461},
@@ -39,5 +39,5 @@ null,
 {"id":37,"expanded":true,"name":"Casa abandonada","order":39,"parentId":10,"scrollX":929.1428571428571,"scrollY":522.8571428571428},
 {"id":38,"expanded":false,"name":"minijuego","order":13,"parentId":13,"scrollX":819,"scrollY":461},
 null,
-{"id":40,"expanded":true,"name":"sala del portal","order":35,"parentId":10,"scrollX":929.1428571428571,"scrollY":522.8571428571428}
+{"id":40,"expanded":true,"name":"sala del portal","order":35,"parentId":10,"scrollX":819,"scrollY":461}
 ]
